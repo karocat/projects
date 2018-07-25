@@ -1,0 +1,33 @@
+.project {
+  text-decoration: none;
+  color: #222;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25rem;
+}
+.jekyll {
+  background-color: #aaa;
+  font-family: 'Open Sans', sans-serif;
+  height: 1rem;
+  width: 4rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.tweet {
+  background-color: #4fafed;
+}
+.share {
+  background-color: #4361b3;
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.textleft {
+  text-align: left;
+  margin-left: 1vw;
+}
+.right {
+  margin-left: auto;
+}
